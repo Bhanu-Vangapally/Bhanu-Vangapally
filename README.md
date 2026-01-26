@@ -42,13 +42,13 @@
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-ba)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Bhanu-Vangapally&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Bhanu-Vangapally&show_icons=true&theme=highcontrast&hide_border=false&cache_seconds=86400)
 ![](https://nirzak-streak-stats.vercel.app/?user=Bhanu-Vangapally&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhanu-Vangapally&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
 ### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&category=technology)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Bhanu-Vangapally&icon=0&color=0)](https://visitcount.itsvg.in)
