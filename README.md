@@ -229,7 +229,7 @@ graph LR
 
 <div align="center">
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&category=technology)
 
@@ -246,5 +246,6 @@ graph LR
 ---
 
 **Thanks for visiting! ⭐ Star my repos if you find them interesting!**
+**Bhanu Vangapally**
 
 </div>
