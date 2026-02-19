@@ -174,7 +174,7 @@ graph LR
 - 🧠 **AI/ML Projects**: Generative AI, NLP, Computer Vision applications
 - 📊 **Data Science**: End-to-end analytics and visualization projects
 - 🌐 **Full-Stack Development**: Data-driven web applications
-- 🚀 **Open Source**: Beginner-friendly projects in AI/ML or web development
+- 🚀 **Open Source**: Beginner-friendly projects in AI/ML or web development.
 
 💡 **Need Help With**: MLOps, model deployment, scalable AI systems, and algorithm optimization
 
